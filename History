@@ -55,3 +55,5 @@ Version 23 was a trial version to find the mistake in the rotation matrix of the
 17/8/2018 Version 28: Check in every event if hits in Sensor 1 correspond to hits in Sensor2. Output printed after the end of each run. Bug with weights = 0 fixed. Pure detector resolution histograms added (reconstructed coordinate - real coordinate of primary particle in each sensor).
 
 27/8/2018 Version 29: Impact points of primary protons in BPIX modules defined with respect to the centroids of pixels. The above positions in the pixel modules are plotted in histograms 203-208.
+
+7/9/2018 Version 30: Seed selection added in vis.mac.
