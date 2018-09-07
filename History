@@ -56,4 +56,4 @@ Version 23 was a trial version to find the mistake in the rotation matrix of the
 
 27/8/2018 Version 29: Impact points of primary protons in BPIX modules defined with respect to the centroids of pixels. The above positions in the pixel modules are plotted in histograms 203-208.
 
-7/9/2018 Version 30: Seed selection added in proton.mac.
+7/9/2018 Version 30: Seed selection option added in proton.mac.
